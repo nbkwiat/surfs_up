@@ -11,9 +11,9 @@ Using sqlalchemy and flask I have so far been able to run queries connected to s
 ![December stats](https://user-images.githubusercontent.com/109539205/194896007-f9359ecf-1f16-4edc-93cb-67bebfadd9a2.png)
 
 
-  -The average temperature in June is 74 compared to 71 degrees. This isnt too big of a difference to affect customer sales.
-  -The minimum temperature was 51 degrees in december which I think would be too cold for ice cream and surfing however, this could just be due to a rainy day.
-  -Roughly half of the time the temperatures for both months hover in the low 70s. This is adequate surfing weather and in my opinion still a reasonable temperature to be eating ice cream.
+  - The average temperature in June is 74 compared to 71 degrees. This isnt too big of a difference to affect customer sales.
+  - The minimum temperature was 51 degrees in december which I think would be too cold for ice cream and surfing however, this could just be due to a rainy day.
+  - Roughly half of the time the temperatures for both months hover in the low 70s. This is adequate surfing weather and in my opinion still a reasonable temperature to be eating ice cream.
   
   
   
